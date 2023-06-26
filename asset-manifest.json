@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-feedback/static/css/main.3ccabcad.css",
+    "main.js": "/goit-react-hw-04-feedback/static/js/main.51d6df5d.js",
+    "index.html": "/goit-react-hw-04-feedback/index.html",
+    "main.3ccabcad.css.map": "/goit-react-hw-04-feedback/static/css/main.3ccabcad.css.map",
+    "main.51d6df5d.js.map": "/goit-react-hw-04-feedback/static/js/main.51d6df5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccabcad.css",
+    "static/js/main.51d6df5d.js"
+  ]
+}
